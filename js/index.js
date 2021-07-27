@@ -34,7 +34,7 @@ function preloader() {
     const data = {
         partial1: {
             headingContent: 'Solar Energy',
-            imageURL: '../img/SolarEnergy.jpg',
+            imageURL: './img/SolarEnergy.jpg',
             imageAlt: 'Solar...',
             bodyText: "Solar energy is the earliest source of energy known to mankind, and is also the origin of other forms of energy used by man. Other renewable sources of energy, such as, wind energy, hydro power, biomass and ocean energy are the indirect forms of solar energy."
             
@@ -43,14 +43,14 @@ function preloader() {
             
         partial2: {
             headingContent: 'Hydro Energy',
-            imageURL: '../img/HydroEnergy.jpg',
+            imageURL: './img/HydroEnergy.jpg',
             imageAlt: 'Hydro...',
             bodyText: "HydroGreen Energy manufactures systems to produce viable “green” energy and make possible “zero-energy input” production systems.  HydroGreen Energy will improve the condition of our environment and provide quality local employment."
             
         },
         partial3: {
             headingContent: 'Biogas Energy',
-            imageURL: '../img/BiogasEnergy.jpg',
+            imageURL: './img/BiogasEnergy.jpg',
             imageAlt: 'BiogasEnergy...',
             bodyText: "Biogas has gained popularity in recent years as a “greener” fuel. Biogas today is a more sustainable solution than traditional natural gas, we should consider it as an important transition fuel on the road to completely decarbonizing our energy supply."
         }
