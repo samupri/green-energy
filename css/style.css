@@ -82,7 +82,7 @@ nav {
 
   .masthead {
     
-    background-image: url("/img/mastheadImg.jpg");
+    background-image: url("../img/mastheadImg.jpg");
     max-width: 100%;
     max-height: auto;
     
